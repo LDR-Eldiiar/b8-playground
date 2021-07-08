@@ -26,4 +26,3 @@ public class FacebookMainPage {
         return contextText.getText();
     }
 }
-// WebElement expectedElement = driver.findElement(By.xpath(""));
